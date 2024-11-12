@@ -1,5 +1,5 @@
 <template>
-  <router-view></router-view>
+  <div>404页面</div>
 </template>
 
 <script setup lang="ts"></script>
